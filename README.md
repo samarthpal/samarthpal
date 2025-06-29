@@ -38,6 +38,19 @@
 
 <table>
   <tr>
+    <td width="50"><img src="https://daemonhive.com/logo.png" width="40" /></td>
+    <td>
+      <strong><a href="https://daemonhive.com">DaemonHive Technologies</a></strong><br/>
+      Full-stack product development studio where I currently serve as CTO, leading the design and development of scalable platforms and B2B products.<br/>
+      <em>Leadership, Full Stack Dev, DevOps, Product Architecture</em>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
     <td width="50"><img src="https://stashblog.com/logo.png" width="40" /></td>
     <td>
       <strong><a href="https://stashblog.com">StashBlog</a></strong><br/>
